@@ -1,0 +1,140 @@
+#navBar{
+    position: absolute;
+    display: inline;
+    width: 99%;
+    margin-top: 25.3em;
+}
+ul {
+    list-style-type: none;
+    margin-top: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #E2EDDD;
+  }
+  
+li {
+    float: left;
+    padding: 0em 2.13% 0em 2.13%;
+    border: 1px solid black;
+  }
+  
+li a {
+    display: block;
+    padding: 1em;
+    text-decoration: none;
+  }
+  #navBar a:visited{
+    color: black;
+}
+
+#navBar a:hover{
+    color: lightgray;
+}
+#navBar a:active{
+    color: darkgrey;
+}
+h1{
+    position: absolute;
+    margin-top: .5em;
+    margin-left: 8em;
+    font-size: 5em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    letter-spacing: .1em;
+    color: black;
+}
+#imgHeader{
+    position: absolute;
+    margin-top: -1em;
+    width: 99%;
+}
+#Europe{
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    letter-spacing: .1em;
+    color:  black;
+    opacity: .1;
+    margin-left: 4.5em;
+    margin-top: -.2em;
+}
+#backgroundContainer{
+    background-color: #DECABA;
+    width: 100%;
+    height: 10em;
+    padding-top: 1em;
+}
+#bio{
+    position: absolute;
+    margin-top: 8em;
+    margin-left: 1em;
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+#img1{
+    float: left;
+    width: 25%;
+    margin-top: -1.5em;
+}
+
+#p1{
+    font-size: 2em;
+    margin-top: 18em;
+    margin-left: 3em;
+    line-height: 1.2em;
+}
+#decrease{
+    position: absolute;
+    margin-top: 1.2em;
+    margin-left: 1em;
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+#img2{
+    float: right;
+    width: 30%;
+    margin-top: 4em;
+    margin-right: 2em;
+    margin-left: -2em;
+}
+#p2{
+    font-size: 2em;
+    margin-top: 6em;
+    margin-left: 3em;
+    line-height: 1.2em;
+}
+#img3{
+    float: left;
+    width: 40%;
+    height: auto;
+    margin-left: 28em;
+    margin-top: 1em;
+}
+#solution{
+    position: absolute;
+    margin-top: 4.5em;
+    margin-left: 1em;
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+#p3{
+    font-size: 2em;
+    margin-top: 12.5em;
+    margin-left: 3em;
+    line-height: 1.2em;
+    margin-right: 1em;
+}
+#img4{
+    float: right;
+    width: 30%;
+    margin-top: -1.6em;
+}
+strong{
+    color: #0A4C76;
+}
+mark{
+    background-color: #E2EDDD;
+}

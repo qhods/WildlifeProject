@@ -1,0 +1,168 @@
+#navBar{
+    position: absolute;
+    display: inline;
+    width: 99%;
+    margin-top: 25em;
+}
+ul {
+    list-style-type: none;
+    margin-top: 0;
+    padding: 0;
+    background-color: #E2EDDD;
+    overflow: hidden;
+  }
+  
+#navList {
+    float: left;
+    padding: 0em 2.63% 0em 2.704%;
+    border: 1px solid black;
+    overflow: hidden;
+  }
+  
+#navList a {
+    display: block;
+    padding: 1em;
+    text-decoration: none;
+  } 
+#navList a {
+    display: block;
+    padding: 1em;
+    text-decoration: none;
+}
+  #navBar a:visited{
+    color: black;
+}
+
+#navBar a:hover{
+    color: lightgray;
+}
+#navBar a:active{
+    color: darkgrey;
+}
+
+#imgHeader{
+    position: absolute;
+    margin-top: -.5em;
+    width: 99%;
+}
+h1{
+    position: absolute;
+    margin-top: .8em;
+    margin-left: 1em;
+    font-size: 5em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    letter-spacing: .1em;
+    color:  #0A4C76;
+}
+#south{
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    letter-spacing: .1em;
+    color:  #0A4C76;
+    opacity: .1;
+    margin-left: 0em;
+    margin-top: 0em;
+}
+#american{
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    letter-spacing: .1em;
+    color:  #0A4C76;
+    opacity: .1;
+    margin-top: .5em;
+    margin-left: 17.5em;
+}
+#backgroundContainer{
+    background-color: #E2EDDD;
+    width: auto;
+    height: 15em;
+    padding-top: 1em;
+}
+#bio{
+    position: absolute;
+    margin-top: 7.4em;
+    margin-left: 1em;
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+#img1{
+    float: left;
+    width: 25%;
+    margin-top: .5em;
+    margin-left: -3em;
+    margin-right: .5em;
+}
+#p1{
+    font-size: 2em;
+    margin-top: 17em;
+    margin-left: 3em;
+    line-height: 1.2em;
+}
+strong{
+    color: #0A4C76;
+}
+#img2{
+    float: right;
+    width: 30%;
+    margin-top: -2em;
+}
+#decrease{
+    position: absolute;
+    margin-top: .6em;
+    margin-left: 1em;
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+#p2{
+    font-size: 2em;
+    margin-top: 5em;
+    margin-left: 3em;
+    line-height: 1.2em;
+}
+#img3{
+    float: left;
+    width: 35%;
+    height: auto;
+    margin-left: 28em;
+}
+#solution{
+    position: absolute;
+    margin-top: 5em;
+    margin-left: 1em;
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+#p3{
+    font-size: 2em;
+    margin-top: 13em;
+    margin-left: 3em;
+    line-height: 1.2em;
+    margin-right: 1em;
+}
+#p2Continuation{
+    font-size: 2em;
+    margin-top: 0em;
+    margin-left: 3em;
+    line-height: 1.2em;
+}
+
+mark{
+    background-color: #edfce6;
+}
+#img4{
+    float: left;
+    width: 30%;
+}
+#p2List{
+    font-size: 1.5em;
+    margin-left: 20em;
+    margin-top: -1em;
+    list-style: disc;
+    line-height: 1.2em;
+}

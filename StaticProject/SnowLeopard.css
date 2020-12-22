@@ -1,0 +1,144 @@
+#navBar{
+    position: absolute;
+    display: inline;
+    width: 99%;
+    margin-top: 30.5em;
+}
+ul {
+    list-style-type: none;
+    margin-top: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #E2EDDD;
+  }
+  
+li {
+    float: left;
+    padding: 0em 2.4% 0em 2.36%;
+    border: 1px solid black;
+  }
+  
+li a {
+    display: block;
+    padding: 1em;
+    text-decoration: none;
+  }
+#navBar a:visited{
+    color: black;
+}
+
+#navBar a:hover{
+    color: lightgray;
+}
+#navBar a:active{
+    color: darkgrey;
+}
+h1{
+    position: absolute;
+    margin-top: .4em;
+    margin-left: 6em;
+    font-size: 5em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    letter-spacing: .1em;
+    color:  #999999;
+}
+#Asia{
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    letter-spacing: .1em;
+    color:  #999999;
+    opacity: .1;
+    margin-left: 4em;
+    margin-top: -.3em;
+}
+#backgroundContainer{
+    background-color: #0A4C76;
+    width: 100%;
+    height: 10em;
+    padding-top: 1em;
+}
+#imgHeader{
+    position: absolute;
+    margin-top: -.4em;
+    width: 99%;
+}
+#bio{
+    position: absolute;
+    margin-top: 10em;
+    margin-left: 1em;
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+#img1{
+    float: right;
+    width: 35%;
+    margin-top: -.4em;
+    margin-left: .1em;
+    margin-right: .5em;
+}
+#p1{
+    font-size: 2em;
+    margin-top: 22em;
+    margin-left: 3em;
+    line-height: 1.2em;
+}
+#decrease{
+    position: absolute;
+    margin-top: .6em;
+    margin-left: 1em;
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+#img2{
+    float: left;
+    width: auto;
+    margin: -35em 1em 1em -4em;
+}
+#p2{
+    float: right;
+    width: 70%;
+    font-size: 2em;
+    margin-top: 3.3em;
+    margin-left: 3em;
+    line-height: 1.2em;
+}
+#img3{
+    float: right;
+    width: 35%;
+    height: auto;
+    margin-left: .4em;
+    margin-top: -3em;
+    margin-right: -3em;
+}
+#solution{
+    position: absolute;
+    margin-top: 11em;
+    margin-left: 1em;
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+#p3{
+    font-size: 2em;
+    margin-top: 25.4em;
+    margin-left: 3em;
+    line-height: 1.2em;
+    margin-right: 5em;
+}
+#img4{
+    float: left;
+    width: 25%;
+    margin-top: -6em;
+    margin-left: -2em;
+    margin-bottom: -2.8em;
+}
+strong{
+    color: #0A4C76;
+}
+mark{
+    background-color: #E2EDDD;
+}

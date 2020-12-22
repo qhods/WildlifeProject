@@ -1,0 +1,291 @@
+#navBar{
+    position: absolute;
+    display: inline;
+    width: 99%;
+    margin-top: 1em;
+    
+}
+ul {
+    list-style-type: none;
+    margin-top: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #E2EDDD;
+}
+  
+li {
+    float: left;
+    padding: 0em 2.04em 0em 2em;
+    border: 1px solid black;
+}
+li a {
+    display: block;
+    padding: 1em;
+    text-decoration: none;
+}
+#navBar a:visited{
+    color: black;
+}
+
+#navBar a:hover{
+    color: lightgray;
+}
+#navBar a:active{
+    color: darkgrey;
+}
+h1{
+    position: absolute;
+    margin-top: 1.7em;
+    margin-left: 5em;
+    font-size: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    letter-spacing: .1em;
+    color:  #A6CFB4;
+}
+#ImgHeader{
+    position: absolute;
+    margin-left: 1.6em;
+    margin-top: 10em;
+}
+h2{
+    font-size: 2.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: .1em;
+    background-color: #A6CFB4;
+}
+#mission{
+    position: absolute;
+    margin-left: 5em;
+    margin-top: 2em;
+    padding: 1em 1em 1.5em;
+    z-index: -1;
+}
+#logo1{
+    float:right;
+    margin-top: -12em;
+    margin-right: -25em;
+    width: 400px;
+    height: auto;
+}
+#missionBlurb{
+    box-sizing: border-box;
+    background-color: #E2EDDD;
+    font-size: 1.5em;
+    float: right;
+    width: 350px;
+    height: 280px;
+    padding: 30px;  
+    line-height: 2em;
+    margin-right: 28em;
+    margin-top: 8em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#about{
+    position: absolute;
+    margin-left: 5em;
+    margin-top: 14em;
+    padding: 1em 1em 1.5em;
+    z-index: -1;
+}
+#aboutBlurb{
+    box-sizing: border-box;
+    background-color: #E2EDDD;
+    font-size: 1.5em;
+    float: right;
+    width: 700px;
+    height: 430px;
+    padding: 30px;  
+    line-height: 2em;
+    margin-right: 18em;
+    margin-top: 8em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#contributorsHeader{
+    position: absolute;
+    margin-top: -3em;
+    margin-left: 1.2em;
+    padding: .2em 4em 1em .1em;
+    background-color: #0A4C76;
+    z-index: -1;
+}
+#logo2{
+    float:right;
+    width: 200px;
+    height: auto;
+}
+
+.contributors img{
+    width: 100px;
+    height: auto;
+}
+#imgC1{
+    position: absolute;
+    margin-top: -3em;
+    margin-left: 2em;
+}
+#imgC2{
+    position: absolute;
+    margin-top: 7em;
+    margin-left: 2em;
+}
+#imgC3{
+    position: absolute;
+    margin-top: 17em;
+    margin-left: 2em;
+}
+#C4{
+    position: absolute;
+    margin-top: 27em;
+    margin-left: 2em;
+}
+#imgC5{
+    position: absolute;
+    margin-top: 37em;
+    margin-left: 2em;
+}
+#jillBlurb{
+    position: absolute;
+    margin-left: 9em;
+    margin-top: -1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#BrandonBlurb{
+    position: absolute;
+    margin-left: 9em;
+    margin-top: 9em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#natalyaBlurb{
+    position: absolute;
+    margin-left: 9em;
+    margin-top: 19em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#kalynnBlurb{
+    position: absolute;
+    margin-left: 9em;
+    margin-top: 29em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#toriBlurb{
+    position: absolute;
+    margin-left: 9em;
+    margin-top: 39em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#logo2{
+    float: left;
+    margin-top: .5em;
+    margin-left: .5em;
+    width: 6em;
+    height: auto;
+}
+#findUs{
+    position: absolute;
+    margin-top: .3em;
+    margin-left: 12em;
+    color: #e6e6e6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#building{
+    float: left;
+    margin-top: 1.7em;
+    margin-left: 5.5em;
+    width: 1.5em;
+    height: auto;
+}
+#address{
+    position: absolute;
+    margin-top: 2em;
+    margin-left: 17.5em;
+    color: #e6e6e6;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .8em;
+}
+#Contact{
+    position: absolute;
+    margin-top: .3em;
+    margin-left: 30em;
+    color: #e6e6e6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#phoneImg{
+    float: left;
+    margin-top: 1.7em;
+    margin-left: 17em;
+    width: 1.5em;
+    height: auto;
+}
+#phoneNumber{
+    position: absolute;
+    margin-top: 2.3em;
+    margin-left: 40.5em;
+    color: #e6e6e6;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .8em;
+}
+#mailImg{
+    float: left;
+    margin-top: 3.6em;
+    margin-left: -1.5em;
+    width: 1.5em;
+    height: auto;
+}
+#mailAddress{
+    position: absolute;
+    margin-top: 4.4em;
+    margin-left: .5em;
+    color: #e6e6e6;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .8em;
+}
+#Follow{
+    position: absolute;
+    margin-top: .3em;
+    margin-left: 50em;
+    color: #e6e6e6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#facebookLogo{
+    float: left;
+    margin-top: 1.8em;
+    margin-left: 18.7em;
+    width: 1em;
+    height: 1.1em;
+}
+#instagramLogo{
+    float: left;
+    margin-top: 1.8em;
+    margin-left: 1em;
+    width: 1.1em;
+    height: 1.1em;
+}
+#twitterLogo{
+    float: left;
+    margin-top: 1.8em;
+    margin-left: .8em;
+    width: 1.2em;
+    height: 1.1em;
+}
+#backgroundContainer{
+    background-color: #0A4C76;
+    width: auto;
+    height: 45em;
+}
+.contributors{
+    margin-top: 80em;
+    background-color: #e6e6e6;
+    width: auto;
+    height: 45em;
+    margin-bottom: 2em;
+    padding-top: 3em;
+}
+#HomeFooter{
+    clear: both;
+    margin-top: -2em;
+    background-color: #0A4C76;
+    width: auto;
+    height: 6.5em;
+    z-index: -1;
+}

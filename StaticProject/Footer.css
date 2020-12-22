@@ -1,0 +1,57 @@
+#logo{
+    float: left;
+    margin-top: -2.7em;
+    margin-bottom: .2em;
+    width: auto;
+    height: 3.5em;
+    margin-left: 30em;
+}
+#name a{
+    background-color: #d9d9d9;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+}
+#back{
+    float: left;
+    width: 6%;
+    box-sizing: border-box;
+    margin: 1.2em 0em 1em 1em;
+    padding: .5em 1em .5em 1em;
+}
+#Next{
+    float: right;
+    width: 6%;
+    box-sizing: border-box;
+    margin: -2.2em 1em 1em 0em;
+    padding: .5em 1em .5em 1em;
+}
+#Footer a:visited{
+    color: black;
+}
+
+#Footer a:hover{
+    color: #A6CFB4;
+}
+#Footer a:active{
+    color: rgb(95, 95, 95);
+}
+#name{
+    float: left;
+    width: 20%;
+    height: 8%;
+    text-decoration: none;
+    font-size: 1.5em;
+    margin: .8em 0em 0em 23.5em;
+    text-align: center;
+}
+
+#Footer{
+    clear: both;
+    margin-top: -2em;
+    background-color: #d9d9d9;
+    width: auto;
+    height: 4em;
+    z-index: -1;
+}
